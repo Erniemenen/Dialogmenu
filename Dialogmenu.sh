@@ -61,7 +61,7 @@ exec /bin/bash "$0" "$@"
       done
 
 ## Ernie's utility menu Copyright (C) 2021  Ernesto Antonio Menendez Martinez
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
+## This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+## This is free software, and you are welcome to redistribute it
+## under certain conditions; type `show c' for details.
 
